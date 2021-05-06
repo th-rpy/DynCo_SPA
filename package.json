@@ -2,7 +2,6 @@
   "name": "spaix",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://th-rpy.github.io/DynCo_SPA", 
   "dependencies": {
     "@chakra-ui/react": "^1.6.1",
     "@emotion/react": "^11.1.5",
